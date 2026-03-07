@@ -9,8 +9,12 @@ Usage:
   brew install cocoapods 
   
   pod install
+
+
 2. The missing GeneralUser-GS.sf2 could be download from https://www.schristiancollins.com/generaluser
   or you can deploy your own SoundFont bank for composing and playing MIDI files
+
+
 
 3. Build your own music model
    The model pytorch lite accetped is different from pytoch model files likes .pt fromat.
