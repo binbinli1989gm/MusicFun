@@ -4,7 +4,7 @@ The MusicFun app is a midi generator base on PyTorch deployed on the iOS platfor
 
 Usage:
 
-1.cd the folder Podfile file located
+1. cd the folder Podfile file located
   </> Bash
   // If you install cocoapods
   brew install cocoapods 
