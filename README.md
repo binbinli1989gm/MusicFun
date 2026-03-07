@@ -19,8 +19,8 @@ Usage:
 3. Build your own music model
    The model pytorch lite accetped is different from pytoch model files likes .pt fromat.
    So it need to convert .pt format to .ptl format.
-   The pt2ptl.py is aimed to convert the music-transformer model6v2.pt (https://github.com/spectraldoy/music-transformer) to music_transformer.ptl.
-   Detail prameters is in the music-transformer source code folder if you want to explore it. 
+   The pt2pt2tensor.py and safetensors2ptl.py are aimed to convert the music-transformer model6v2.pt (https://github.com/spectraldoy/music-transformer) to music_transformer.ptl.
+   Detail prameters are in the music-transformer source code folder if you want to explore it. 
    For converting, the recommended Python version is 3.8. 
 
  
