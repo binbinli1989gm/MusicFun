@@ -8,7 +8,6 @@ Usage:
   </> Bash
   // If you install cocoapods
   brew install cocoapods 
-  
   pod install
 
 
