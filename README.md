@@ -7,10 +7,10 @@ Usage:
 1. cd the folder Podfile file located
 
   // If you install cocoapods
-  bsah:$ brew install cocoapods 
+  > brew install cocoapods 
   
   // Fetching the pytorch Lite
-  bsah:$ pod install
+  > pod install
 
 
 3. The missing GeneralUser-GS.sf2 could be download from https://www.schristiancollins.com/generaluser
