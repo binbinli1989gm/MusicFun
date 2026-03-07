@@ -10,7 +10,7 @@ import Foundation
 class MusicTransformerModel {
     
     private var module: MidiTorchModule = {
-        if let filePath = Bundle.main.path(forResource: "music_transformer-5", ofType: "ptl"),
+        if let filePath = Bundle.main.path(forResource: "music_transformer", ofType: "ptl"),
            let module = MidiTorchModule(fileAtPath: filePath) {
             return module
         } else {
