@@ -8,6 +8,7 @@ Usage:
 
   // If you install cocoapods
   brew install cocoapods 
+  
   // Fetching the pytorch Lite
   pod install
 
