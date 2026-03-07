@@ -6,9 +6,9 @@ Usage:
 
 1. cd the folder Podfile file located
 
-  </> Bash
   // If you install cocoapods
   brew install cocoapods 
+  // Fetching the pytorch Lite
   pod install
 
 
